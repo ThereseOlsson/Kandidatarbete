@@ -1,0 +1,28 @@
+Namn: Bosse & Co
+Projektledare: Elsa Bergman
+Projektidéer:
+• Student/plugg app
+• Arvid kollar med företag
+• Plugg+träningsapp= OptiLife
+• Hitta träningskompisApp (Vill du träna eller plugga?)
+• Kurslitteratur – sälj och köp kurslitteratur, ta kort direkt i appen
+• Linkedin för studenter – om privatpersoner behöver hjälpa, juridisk hjälp m.m. (ställa allmänfråga eller inte?). Wifi. Uber för gräsklippning och eller promendera för hund. Chattfunktion. Olika typer, några jobbar med support och några är konsulter
+• Tjänst – klippa gräs, enkla saker, rata
+• Recept - dela
+• Resor – med budget. Vi var i Prag m.m. Jag har denna budget för såhär många dag och så får man förslag. En för studenter i Uppsala.
+• Smultronställen i Uppsala – personlighetpaket (kulturmänniska, sportmänniska, fattig student, fest, fik-människa)
+• Vad händer på Uppsala-campus app? Notifications och andra personer får verifiera att det stämmer.
+• STS-kurslitteratur i App-form.
+• Student-recept.
+Regler:
+Kl. 8:15/30 - 16:00
+Man måste höra av sig om man kommer sent. Inte okej om man alltid börjar bli sent.
+Kommunikation via Slack
+Angelica föreläsningar
+Kalender
+fredag den 28 så jobbar vi fram till lunch.
+18:e kommer Therese och Frida borta.
+Om det uppstår en situation med en person – snacka med den personen enskilt och inte prata med andra om det.
+Morgonmöte varje dag 08:30-09:00
+Lunch får man käka liten är man vill, max 1 h lunch!
+Att adda ner – Github, Slack på datorn
