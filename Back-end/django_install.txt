@@ -7,3 +7,4 @@ mod_wsgi-express start-server
 pip install virtualenv
 git clone git://github.com/django/django.git
 pip install virtualenvwrapper
+pip install -e django/
