@@ -5,7 +5,7 @@ import android.view.View;
 import android.widget.Button;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class login extends AppCompatActivity {
 
     public void buttonOnClick(View v){
         Button loginButton = (Button) v;
