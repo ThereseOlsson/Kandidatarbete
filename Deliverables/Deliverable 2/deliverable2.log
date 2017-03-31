@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.15)  30 MAR 2017 22:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.2.15)  31 MAR 2017 12:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -651,11 +651,6 @@ $[]$   $[]$   $[]$
 
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Missing character: There is no Å in font cmr12!
-Missing character: There is no ö in font cmr12!
-Missing character: There is no Å in font cmr12!
-Missing character: There is no ö in font cmr12!
-
 <login.png, id=16, 141.1674pt x 288.5982pt>
 File: login.png Graphic file (type png)
  <use login.png>
@@ -724,7 +719,7 @@ Here is how much of TeX's memory you used:
  17523 multiletter control sequences out of 15000+600000
  13689 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,11n,85p,696b,1039s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,11n,85p,703b,1039s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pub
@@ -736,7 +731,7 @@ fonts/cm/cmss17.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti12.pfb>
-Output written on deliverable2.pdf (6 pages, 735012 bytes).
+Output written on deliverable2.pdf (6 pages, 734412 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
