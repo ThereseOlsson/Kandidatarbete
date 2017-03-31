@@ -8,8 +8,11 @@ import android.os.Bundle;
 public class login extends AppCompatActivity {
 
     public void buttonOnClick(View v){
-        Button loginButton = (Button) v;
-        ((Button) v).setText("Hej");
+
+       Button loginButton = (Button) v;
+        if( v instanceof Button) {
+            System.out.println("Hej");
+        }
     }
 
     @Override
