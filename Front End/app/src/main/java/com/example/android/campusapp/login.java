@@ -11,7 +11,7 @@ public class login extends AppCompatActivity {
 
        Button loginButton = (Button) v;
         if( v instanceof Button) {
-            System.out.println("Hej");
+             ((Button) v).setText("HEJ");
         }
     }
 
