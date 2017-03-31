@@ -1,4 +1,4 @@
-﻿Terminalkommandon för att installera django på Mac. 
+Terminalkommandon för att installera django på Mac. 
 
 python get-pip.py 
 python get-pip.py install
@@ -8,6 +8,25 @@ pip install virtualenv
 git clone git://github.com/django/django.git
 pip install virtualenvwrapper
 pip install -e django/
+
+Django tutorial 
+%Create project 
+django-admin startproject projectname
+
+%Gå till mappen projectname
+cd path
+
+% kolla så att projektet funkar, (ignorera migratevarningen)
+python manage.py runserver
+
+% ändra port
+python manage.py runserver portnummer
+
+%ändra servers IP
+python manage.py runserver 0.0.0.0:8000
+
+%skapa mappen pools. (ska vara i samma mapp som manage.py)
+python manage.py startapp polls
 
 
 Terminalkommandon för att installera django på Mac. 
